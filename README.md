@@ -9,3 +9,4 @@ It's simply a wrapper to make it easier to work with Kohana with a simple config
 ==============
 
 A small PHP class to generate YouTube-like hashes from numbers. Read documentation at http://www.hashids.org/php/
+
