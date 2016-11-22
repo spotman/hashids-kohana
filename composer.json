@@ -1,0 +1,8 @@
+{
+    "name": "spotman/hashids-kohana",
+    "type": "kohana-module",
+    "require": {
+        "composer/installers": "*",
+        "hashids/hashids": "1.x"
+    }
+}
